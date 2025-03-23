@@ -1,0 +1,10 @@
+{
+	"Array": [
+		{
+			"title": "Array",
+			"headers": "Includes",
+			"syntax": "array.includes(target)",
+			"details": "returns boolean. works for array and string"
+		}
+	]
+}
